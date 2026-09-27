@@ -1,12 +1,5 @@
-## Hi there 👋
+# Zecovex
 
-<!--
+Zecovex is a **Pentest-as-a-Service** company focused on helping organizations continuously identify, validate, and remediate security weaknesses across their digital infrastructure. We combine deep offensive security expertise with streamlined delivery to provide clear, actionable insights that improve overall security posture.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In addition to penetration testing services, Zecovex also provides **SaaS support services**, helping businesses deploy, manage, and maintain cloud-based software solutions with reliability, scalability, and security in mind.
